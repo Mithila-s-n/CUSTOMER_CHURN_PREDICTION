@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# MLflow
+mlruns/
+
+# Environment variables
+.env
+
+# Model files (optional)
+*.joblib
