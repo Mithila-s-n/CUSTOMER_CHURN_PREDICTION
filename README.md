@@ -183,7 +183,7 @@ docker run -p 8000:8000 customer-churn
 ---
 
 ## 👨‍💻 Author
-**Vidyanidhi G Shetty**
+**Mithila S**
 
 **Computer Science Engineering (Data Science)**
 
